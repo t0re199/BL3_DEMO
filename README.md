@@ -1,6 +1,6 @@
 # README #
 
-**Bl3**, whose name derivies from **Bluetooth** **l**ow **e**nergy (**Bl3**), is a distributed system that allows Covid-19 **contact tracing**. It's a centralized alterative to Apple and Google's one, totally selfcontained.   
+**Bl3**, whose name derivies from **B**luetooth **l**ow **e**nergy, is a distributed system for Covid-19 **contact tracing**. It's a centralized alterative to Apple and Google's one, totally selfcontained.   
    
 The system is consists of an **Android Application** and a **JavaEE Backend**.     
    
@@ -10,7 +10,7 @@ Not open-source (yet?).
 
 * No reference to user identities, when a user register at bl3, he/she get a 20-bytes identifier. This identifier is generated regardless username and/or device.    
     
-Moreovere:   
+Moreover:   
     
 * Username and Password are stored in SHA256 format.  
    
