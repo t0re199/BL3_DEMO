@@ -12,7 +12,7 @@ Not open-source (yet?).
     
 Moreover:   
     
-* Username and Password are stored in SHA256 format.  
+* Usernames and Passwords are stored in SHA256 format.  
    
 * Once the user has logged in, the server provides to the android application a Json Web Token \([JWT](https://jwt.io/)\) that will be used for any further interaction.  
 
@@ -75,4 +75,4 @@ The Android application has been entierly written in Java. Gradle has been used 
      
 ![](./imgs/infect_with_prompt.png)   
     
-![](./imgs/infect_with_prompt.png)
+![](./imgs/infect_no_prompt.png)
