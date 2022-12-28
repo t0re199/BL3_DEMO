@@ -8,7 +8,7 @@ Not open-source (yet?).
 
 ## Bl3 & Privacy ##
 
-* No reference to user identities, when a user register at bl3, he/she get a 20-bytes identifier. This identifier is generated regardless username and/or device.    
+* No reference to user identities, when a user register at bl3, he/she gets a 20-bytes identifier. This identifier is generated regardless username and/or device.    
     
 Moreover:   
     
