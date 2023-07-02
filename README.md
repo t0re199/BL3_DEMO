@@ -2,7 +2,7 @@
 
 **Bl3**, whose name derivies from **B**luetooth **l**ow **e**nergy, is a distributed system for Covid-19 **contact tracing**. It's a centralized alterative to Apple and Google's one, totally selfcontained.   
    
-The system is consists of an **Android Application** and a **JavaEE Backend**.     
+The system consists of an **Android Application** and a **JavaEE Backend**.     
    
 Not open-source (yet?).   
 
